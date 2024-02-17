@@ -115,6 +115,7 @@ a {
    color: var(--secondary);
 }
 
+/* Button outline */
 .outlineBtn {
    display: inline-flex;
    height: 62px;
@@ -127,6 +128,14 @@ a {
    color: #ffffff;
 }
 
+/* Button right icon */
+.btnIcon {
+   font-size: 14px;
+   font-weight: 900;
+   padding-left: 10px;
+}
+
+/* Input field */
 .inputField {
    display: inline-flex;
    justify-content: center;
