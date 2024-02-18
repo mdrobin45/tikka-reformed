@@ -31,6 +31,7 @@ Index
    --primary: #c8f31d;
    --secondary: #131313;
    --sectionBg: #191919;
+   --fontColor: #bfbfbf;
 }
 
 /* 
@@ -44,6 +45,9 @@ body {
    font-family: "Montserrat", sans-serif;
    font-size: 15px;
    line-height: 30px;
+   font-weight: 400;
+   font-style: normal;
+   color: var(--fontColor);
 }
 
 /* 
@@ -62,6 +66,7 @@ h6 {
    font-weight: 400;
    font-style: normal;
    margin: 0;
+   color: #ffffff;
 }
 
 h1 {
